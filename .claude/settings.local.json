@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(*)",
+      "Write(*)",
+      "Skill(distress-signal)",
+      "Bash(mkdir -p \"g:\\claude_code_skills_for_npc\\星之低语\\.claude\\skills\\power-crisis\")"
+    ]
+  }
+}
