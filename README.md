@@ -1,6 +1,12 @@
 # 星之低语 (Whispers from the Stars)
 
-一款基于Claude Code Skills的互动式叙事冒险游戏
+一款基于Claude Code Skills实现的互动式叙事冒险游戏
+
+## 一句话评价
+
+对于剧情推进和氛围渲染都十分好，并且提供了很满的情绪价值。
+
+有一些作者自己的游玩记录在`游玩记录截图/第x章`里面
 
 ## 游戏简介
 
@@ -121,13 +127,17 @@ Emergency Distress → Alien Encounter → Ancient Ruins → Cooking Adventure �
 ★★★★☆ - 困难 (Storm Survival, Cave Exploration, Ancient Ruins)
 ★★★★★ - 挑战 (Alien Encounter, Escape Plan)
 
-## 关于作者
+## 关于开发
 
 本游戏基于Claude Code Skills系统创建,是一个展示AI互动叙事潜力的实验性项目。
 
-## 版权声明
+在Claude Code上 一句话开发完成
+![](游玩记录截图/开发过程/1.png)
 
-本作品为原创互动叙事游戏,角色、世界观、剧情均为原创设定。
+还能实时新增想要游玩的章节主题
+![](游玩记录截图/开发过程/2.png)
+![](游玩记录截图/开发过程/3.png)
+![](游玩记录截图/开发过程/4.png)
 
 ## 开始你的冒险吧!
 
